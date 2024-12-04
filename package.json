@@ -1,0 +1,20 @@
+{
+  "name": "hellbackend",
+  "version": "1.0.0",
+  "description": "a hell like backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "hell"
+  ],
+  "author": "Sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1"
+  }
+}
